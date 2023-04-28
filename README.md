@@ -1,5 +1,8 @@
 # Pix2PixHD_Image_Training_Tools
 
+[image_segmentation_preview](/imagesegment.jpg)
+
+
 This repository contains utilities for preprocessing images for use with [Pix2PixHD](https://github.com/NVIDIA/pix2pixHD). The utilities use the CV2 and Pillow Python libraries for manipulating images.
 
 ## Requirements
